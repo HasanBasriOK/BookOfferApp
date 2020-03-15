@@ -1,0 +1,192 @@
+c:\users\enderuser\documents\visual studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\BookOfferApp.exe.config
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmAdminPanel.resources
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmBookDetail.resources
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmBookList.resources
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmBookListForChoice.resources
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmBookScore.resources
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmLogin.resources
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmMain.resources
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmSignUp.resources
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmUserDetail.resources
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmUserList.resources
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.Properties.Resources.resources
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.csproj.GenerateResource.Cache
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.exe.licenses
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\BookOfferApp.exe
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\BookOfferApp.pdb
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.RichEdit.v14.2.Core.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraTreeList.v14.2.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Office.v14.2.Core.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraTreeList.v14.2.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Office.v14.2.Core.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.exe
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.pdb
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmReadBook.resources
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\itextsharp.dll
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\bin\Debug\itextsharp.xml
+C:\Users\enderuser\Documents\Visual Studio 2015\Projects\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.csprojResolveAssemblyReference.cache
+C:\Users\HBO\Desktop\yazlab1\BookOfferApp\BookOfferApp\bin\Debug\BookOfferApp.exe.config
+C:\Users\HBO\Desktop\yazlab1\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.exe
+C:\Users\HBO\Desktop\yazlab1\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.pdb
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\BookOfferApp.exe.config
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.exe
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.pdb
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\BookOfferApp.exe
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\BookOfferApp.pdb
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\itextsharp.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.RichEdit.v14.2.Core.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraTreeList.v14.2.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Office.v14.2.Core.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\itextsharp.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.XtraTreeList.v14.2.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\DevExpress.Office.v14.2.Core.xml
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\de\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\es\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ja\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\bin\Debug\ru\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.csprojResolveAssemblyReference.cache
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmAdminPanel.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmBookDetail.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmBookList.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmBookListForChoice.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmBookOffer.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmBookScore.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmLogin.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmMain.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmReadBook.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmSignUp.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmUserDetail.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.frmUserList.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.Properties.Resources.resources
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.csproj.GenerateResource.Cache
+C:\Users\HBO\Desktop\BookOfferApp\BookOfferApp\obj\Debug\BookOfferApp.exe.licenses
